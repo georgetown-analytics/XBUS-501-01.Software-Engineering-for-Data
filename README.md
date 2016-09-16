@@ -9,10 +9,10 @@ The workshops and demos for this course are listed below along with links to mat
 **Session 2**
 
 * Git/ GitHub Demo
-* [Intro to Git Workshop](https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data/tree/master/intro_to_git)
 
 **Session 3**
 
+* [Intro to Git Workshop](https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data/tree/master/intro_to_git)
 * Python 2/3 Transition Demo
 * [Object Oriented Programming Workshop](https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data/tree/master/OOP_workshop)
 
