@@ -24,6 +24,7 @@ The workshops and demos for this course are listed below along with links to mat
 **Session 5**
 
 * [Object Oriented Programming Workshop](https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data/tree/master/OOP_workshop)
+* [NBA Player Statistics Workshop](https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data/tree/master/nba)
 
 
 
