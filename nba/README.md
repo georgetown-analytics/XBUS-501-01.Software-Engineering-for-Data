@@ -23,7 +23,7 @@ You will need to make use of the csv module or use pandas to load the data and i
 Determine the relationship of PER (Player Efficiency Rating) to Salary via a visualization of the data.
 
 
-NBA 2014 Players Dataset: [http://bit.ly/2cdIpUc](http://bit.ly/2cdIpUc)
+NBA 2014 Players Dataset: [http://bit.ly/2n9twqX](http://bit.ly/2n9twqX)
 
 ## Certificate Completion Challenge:
 
