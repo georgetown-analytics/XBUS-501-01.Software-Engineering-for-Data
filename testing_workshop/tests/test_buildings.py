@@ -53,13 +53,6 @@ class TestGarage():
         pass
 
     @pytest.mark.skip(reason="pending test code")
-    def test_ensure_cars_enter_fully(self):
-        """
-        Ensure vehicle is in garage after it enters (eg: vehicle in garage == True)
-        """
-        pass
-
-    @pytest.mark.skip(reason="pending test code")
     def test_only_allows_cars_to_enter(self):
         """
         Ensure the garage raises TypeError if non vehicle attempts to enter
@@ -77,13 +70,6 @@ class TestGarage():
     def test_allows_cars_to_exit(self):
         """
         Ensure vehicles can leave the garage
-        """
-        pass
-
-    @pytest.mark.skip(reason="pending test code")
-    def test_ensure_cars_exit_fully(self):
-        """
-        Ensure vehicle is not in garage after it exits
         """
         pass
 
